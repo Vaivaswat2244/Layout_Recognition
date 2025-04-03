@@ -39,6 +39,7 @@ To assess the performance of our YOLOv8 model for Layout Organization Recognitio
 These metrics ensure our model effectively recognizes diverse layouts while maintaining high precision and recall.
 
 Demo Notebook:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x02QwVEedDWl3OmbbRmQspkpn2II-aqY?usp=sharing)
+Presentation Link: [Prezi](https://prezi.com/view/miuVaMIiqMdPAHb3n53I/)
 
 <img src="https://github.com/phoeenniixx/Layout_Recognition/blob/main/images/F1_curve.png">
 <img src="https://github.com/phoeenniixx/Layout_Recognition/blob/main/images/PR_curve.png">
